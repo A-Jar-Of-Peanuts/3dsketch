@@ -18,7 +18,6 @@ void draw() {
   sphere(300);
   cube(width/2+100, height/2+100, 0, color(255, 204, 0), 100); 
   cube(width/2-100, height/2-100, 0, color(65), 100); 
-  
 }
 
 void mouseDragged() {
